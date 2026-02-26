@@ -1,4 +1,4 @@
 *.ini
 
-# Files too large for GitHub (>100 MiB) - keep locally / on Google Drive instead
+# Files too large
 **/07 - Network Layer -T10.11 a (1).pdf
