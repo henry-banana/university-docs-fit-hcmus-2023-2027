@@ -1,0 +1,342 @@
+STT MSSV Họ SV Tên SV Ngành/Chuyên Ngành Ghi chú
+1 19120241 Hoàng Minh Huy Công nghệ thông tin
+2 20120070 Huỳnh Thiết Gia Thị giác máy tính
+3 20120090 Nguyễn Thế Hoàng Khoa học máy tính + Khoa học dữ liệu
+4 20120100 Đỗ Minh Huy Mạng máy tính và viễn thông
+5 20120132 Nguyễn Tuấn Minh Hệ thống thông tin
+6 20120359 Nguyễn Đức Quang Thị giác máy tính
+7 20120421 Lê Ngọc Tuấn Thị giác máy tính
+8 20120423 Ngô Trọng Tín Công nghệ tri thức + An toàn thông tin
+9 20120517 Từ Anh Kiệt Không đạt điều kiện xét
+10 21120035 Nguyễn Hoài An Khoa học máy tính + Khoa học dữ liệu
+11 21120036 Triệu Hoàng Thiên Ân Kỹ thuật phần mềm
+12 21120037 Mã Thùy Anh Hệ thống thông tin
+13 21120040 Phạm Công Bằng Kỹ thuật phần mềm
+14 21120041 Dương Ngọc Thái Bảo Kỹ thuật phần mềm
+15 21120042 Phan Gia Bảo Khoa học máy tính + Khoa học dữ liệu
+16 21120045 Bùi Hồng Đăng Khoa học máy tính + Khoa học dữ liệu
+17 21120050 Trương Tấn Đạt Kỹ thuật phần mềm
+18 21120053 Lại Đức Dũng Công nghệ thông tin
+19 21120058 Phạm Nhật Duy Khoa học máy tính + Khoa học dữ liệu
+20 21120060 Nguyễn Long Giang Hệ thống thông tin
+21 21120063 Hà Thanh Hải Công nghệ thông tin
+22 21120064 Lê Quốc Hân Công nghệ thông tin
+23 21120065 Nguyễn Trang Mai Hạnh Công nghệ tri thức + An toàn thông tin
+24 21120067 Nguyễn Hoàng Hiếu Công nghệ thông tin
+25 21120070 Nhan Hữu Hiếu Khoa học máy tính + Khoa học dữ liệu
+26 21120072 Nguyễn Xuân Hoà Công nghệ thông tin
+27 21120076 Nguyễn Thanh Huệ Kỹ thuật phần mềm
+28 21120078 Đỗ Nguyễn Khánh Hưng Khoa học máy tính + Khoa học dữ liệu
+29 21120079 Trương Vĩnh Hưng Kỹ thuật phần mềm
+30 21120082 Phan Quốc Huy Hệ thống thông tin
+31 21120083 Phan Văn Khải Khoa học máy tính + Khoa học dữ liệu
+32 21120085 Võ Gia Khang Công nghệ thông tin
+33 21120088 Nguyễn Nhật Khoa Công nghệ thông tin
+34 21120089 Trần Đăng Khoa Không đạt điều kiện xét
+35 21120090 Mai Trần Phú Khương Công nghệ thông tin
+36 21120091 Hồ sỹ Kiên Khoa học máy tính + Khoa học dữ liệu
+37 21120093 Trần Anh Kiệt Kỹ thuật phần mềm
+38 21120096 Hồ Châu Long Công nghệ thông tin
+39 21120097 Trần Bảo Minh Khoa học máy tính + Khoa học dữ liệu
+40 21120099 Hoàng Thành Nam Công nghệ thông tin
+41 21120102 Nguyễn Trúc Nguyên Khoa học máy tính + Khoa học dữ liệu
+42 21120103 Phan Thảo Nguyên Khoa học máy tính + Khoa học dữ liệu
+43 21120105 Trương Thành Nhân Kỹ thuật phần mềm
+Trường Đại học Khoa học Tự nhiên
+Khoa Công nghệ thông tin
+---oOo---
+KẾT QUẢ XÉT PHÂN CHUYÊN NGÀNH ĐỢT KHÓA 2021
+(Tháng 09/2023)
+Page 1/ 7STT MSSV Họ SV Tên SV Ngành/Chuyên Ngành Ghi chú
+44 21120108 Nguyễn Tiến Nhật Khoa học máy tính + Khoa học dữ liệu
+45 21120110 Nguyễn Tấn Phát Khoa học máy tính + Khoa học dữ liệu
+46 21120112 Bùi Kim Phúc Công nghệ thông tin
+47 21120114 Nguyễn Trần Thiên Phúc Công nghệ tri thức + An toàn thông tin
+48 21120115 Nguyễn Trọng Phúc Khoa học máy tính + Khoa học dữ liệu
+49 21120117 Lê Thị Hồng Phượng Hệ thống thông tin
+50 21120119 Hứa Minh Quân Hệ thống thông tin
+51 21120123 Lê Thanh Thái Quảng Khoa học máy tính + Khoa học dữ liệu
+52 21120126 Nguyễn Tấn Hoàng Sa Kỹ thuật phần mềm
+53 21120127 Lê Hoàng Sơn Kỹ thuật phần mềm
+54 21120130 Mai Xuân Thắng Thị giác máy tính
+55 21120134 Đào Hữu Thành Kỹ thuật phần mềm
+56 21120140 Trần Gia Thịnh Công nghệ thông tin
+57 21120144 Phạm Phúc Thuần Kỹ thuật phần mềm
+58 21120145 Nguyễn Lê Thương Hệ thống thông tin
+59 21120148 Trần Tiến Kỹ thuật phần mềm
+60 21120150 Nguyễn Song Toàn Kỹ thuật phần mềm
+61 21120158 Trương Công Trung Khoa học máy tính + Khoa học dữ liệu
+62 21120159 Võ Chí Trung Kỹ thuật phần mềm
+63 21120160 Nguyễn Nhật Trường Hệ thống thông tin
+64 21120167 Cao Thị Yến Vy Công nghệ tri thức + An toàn thông tin
+65 21120169 Thái Chí Vỹ Khoa học máy tính + Khoa học dữ liệu
+66 21120170 Nguyễn Phạm Phú Xuân Kỹ thuật phần mềm
+67 21120171 Nguyễn Đình Ánh Kỹ thuật phần mềm
+68 21120172 Nguyễn Tuấn Đạt Kỹ thuật phần mềm
+69 21120176 Đinh Thị Thúy Hường Công nghệ thông tin
+70 21120177 Lê Minh Huy Kỹ thuật phần mềm
+71 21120179 Nguyễn Đặng Đăng Khoa Khoa học máy tính + Khoa học dữ liệu
+72 21120182 Phan Trí Nhân Kỹ thuật phần mềm
+73 21120183 Trần Anh Tài Công nghệ thông tin
+74 21120184 Lê Thị Minh Thư Thị giác máy tính
+75 21120185 Phạm Vân Anh Thư Kỹ thuật phần mềm
+76 21120186 Lê Hữu Trí Kỹ thuật phần mềm
+77 21120187 Nguyễn Hà Hoàng Tuấn Kỹ thuật phần mềm
+78 21120190 Ngô Quốc An Kỹ thuật phần mềm
+79 21120191 Nguyễn Ngọc Khánh An Hệ thống thông tin
+80 21120192 Nguyễn Thiên An Công nghệ thông tin
+81 21120197 Cao Nguyễn Tuấn Anh Công nghệ thông tin
+82 21120198 Nguyễn Thị Lan Anh Công nghệ tri thức + An toàn thông tin
+83 21120199 Trần Quốc Anh Hệ thống thông tin
+84 21120201 Bùi Đình Bảo Khoa học máy tính + Khoa học dữ liệu
+85 21120202 Dương Thiên Bảo Không đạt điều kiện xét
+86 21120203 Kha Liêm Bảo Hệ thống thông tin
+87 21120206 Trịnh Gia Bảo Công nghệ tri thức + An toàn thông tin
+88 21120207 Nguyễn Thái Bình Khoa học máy tính + Khoa học dữ liệu
+89 21120210 Lâm Nguyên Chương Mạng máy tính và viễn thông
+90 21120213 Lê Đức Cường Khoa học máy tính + Khoa học dữ liệu
+91 21120216 Huỳnh Phúc Đạt Hệ thống thông tin
+Page 2/ 7STT MSSV Họ SV Tên SV Ngành/Chuyên Ngành Ghi chú
+92 21120221 Sơn Bảo Di Hệ thống thông tin
+93 21120222 Hoàng Thị Diệu Hệ thống thông tin
+94 21120223 Dương Hải Đông Khoa học máy tính + Khoa học dữ liệu
+95 21120227 Nguyễn Tấn Dũng Không đạt điều kiện xét
+96 21120228 Nguyễn Trung Dũng Mạng máy tính và viễn thông Không đăng ký nguyện vọng chuyên ngành
+97 21120231 Bùi Hoàng Duy Hệ thống thông tin
+98 21120235 Trần Anh Duy Khoa học máy tính + Khoa học dữ liệu
+99 21120236 Lý Thanh tú Em Thị giác máy tính
+100 21120238 Nguyễn Thu Hà Hệ thống thông tin
+101 21120240 Nguyễn Vân Hào Khoa học máy tính + Khoa học dữ liệu
+102 21120242 Huỳnh Thị Kiều Hoa Công nghệ thông tin
+103 21120247 Nguyễn Văn Quang Hưng Khoa học máy tính + Khoa học dữ liệu
+104 21120251 Trần Quang Hưng Công nghệ tri thức + An toàn thông tin
+105 21120252 Võ Hoàng Nam Hưng Hệ thống thông tin
+106 21120253 Huỳnh Quốc Huy Công nghệ tri thức + An toàn thông tin
+107 21120254 Lưu Chấn Huy Kỹ thuật phần mềm
+108 21120256 Nguyễn Minh Huy Công nghệ tri thức + An toàn thông tin
+109 21120257 Tôn Anh Huy Khoa học máy tính + Khoa học dữ liệu
+110 21120259 Nguyễn Quang Khải Thị giác máy tính
+111 21120262 Nguyễn Huỳnh Hữu Khang Kỹ thuật phần mềm
+112 21120263 Tống Nguyễn Minh Khang Công nghệ thông tin
+113 21120264 Biện Công Khanh Kỹ thuật phần mềm
+114 21120266 Lê Quang Khánh Kỹ thuật phần mềm
+115 21120270 Huỳnh Lê Đăng Khoa Hệ thống thông tin
+116 21120272 Trương Anh Khoa Kỹ thuật phần mềm
+117 21120273 Võ Châu Đăng Khoa Khoa học máy tính + Khoa học dữ liệu
+118 21120275 Huỳnh Cao Khôi Khoa học máy tính + Khoa học dữ liệu
+119 21120276 Nguyễn Huỳnh Khôi Mạng máy tính và viễn thông Không đăng ký nguyện vọng chuyên ngành
+120 21120277 Nguyễn Trọng Khôi Công nghệ thông tin
+121 21120279 Lê Trần Minh Khuê Khoa học máy tính + Khoa học dữ liệu
+122 21120280 Lý Minh Khuê Công nghệ thông tin
+123 21120284 Lê Lâm Lợi Hệ thống thông tin
+124 21120286 Ngô Nhựt Long Mạng máy tính và viễn thông
+125 21120289 Diệp Quốc Hoàng Nam Hệ thống thông tin
+126 21120290 Hoàng Trung Nam Khoa học máy tính + Khoa học dữ liệu
+127 21120295 Nguyễn Hữu Nghĩa Thị giác máy tính
+128 21120296 Lê Trần Như Ngọc Hệ thống thông tin
+129 21120297 Phùng Lê Hoàng Ngọc Công nghệ thông tin
+130 21120298 Chiêm Bỉnh Nguyên Khoa học máy tính + Khoa học dữ liệu
+131 21120299 Phan Cao Nguyên Khoa học máy tính + Khoa học dữ liệu
+132 21120300 Phan Thanh hà Nguyên Kỹ thuật phần mềm
+133 21120302 Huỳnh Trí Nhân Khoa học máy tính + Khoa học dữ liệu
+134 21120303 Ngô Thành Nhân Kỹ thuật phần mềm
+135 21120307 Trần Đình Nhật Kỹ thuật phần mềm
+136 21120308 Phạm Lê tú Nhi Khoa học máy tính + Khoa học dữ liệu
+137 21120311 Hồ Phúc Kỹ thuật phần mềm
+138 21120313 Trần Nam Phương Khoa học máy tính + Khoa học dữ liệu
+139 21120317 Nguyễn Phan Anh Quốc Kỹ thuật phần mềm
+Page 3/ 7STT MSSV Họ SV Tên SV Ngành/Chuyên Ngành Ghi chú
+140 21120318 Lê Minh Quý Khoa học máy tính + Khoa học dữ liệu
+141 21120321 Nguyễn Văn Siêu Hệ thống thông tin
+142 21120322 Nguyễn Dương Trường Sinh Khoa học máy tính + Khoa học dữ liệu
+143 21120323 Nguyễn Hoàng Minh Sơn Không đạt điều kiện xét
+144 21120324 Mai Đăng Đức Tài Khoa học máy tính + Khoa học dữ liệu
+145 21120326 Đoàn Mạnh Tân Kỹ thuật phần mềm
+146 21120331 Nguyễn Anh Thái Kỹ thuật phần mềm
+147 21120332 Đào Cẩm Thanh Hệ thống thông tin
+148 21120334 Nguyễn Đình Thành Khoa học máy tính + Khoa học dữ liệu
+149 21120335 Nguyễn vũ Thành Công nghệ tri thức + An toàn thông tin
+150 21120336 Nguyễn Phương Thảo Khoa học máy tính + Khoa học dữ liệu
+151 21120339 Nguyễn Đình Nam Thuận Kỹ thuật phần mềm
+152 21120344 Nguyễn Trọng Trí Hệ thống thông tin
+153 21120346 Trương Minh Triết Kỹ thuật phần mềm
+154 21120347 Nguyễn Khắc Triệu Hệ thống thông tin
+155 21120348 Nguyễn Trần Trình Khoa học máy tính + Khoa học dữ liệu
+156 21120351 Nguyễn Thành Trung Khoa học máy tính + Khoa học dữ liệu
+157 21120353 Vi Lý Duy Trường Kỹ thuật phần mềm
+158 21120354 Lương Thanh Tú Khoa học máy tính + Khoa học dữ liệu
+159 21120359 Phạm Quang Tuyền Khoa học máy tính + Khoa học dữ liệu
+160 21120360 Trần Ý Văn Hệ thống thông tin
+161 21120370 Phạm Nguyễn Quốc Vũ Kỹ thuật phần mềm
+162 21120371 Phạm Nguyễn Anh Vương Công nghệ tri thức + An toàn thông tin
+163 21120372 Nguyễn Hưng Yên Kỹ thuật phần mềm
+164 21120393 Nguyễn Hữu Thương Kỹ thuật phần mềm
+165 21120394 Nguyễn Hoàng Ngọc Bảo Hệ thống thông tin
+166 21120396 Đào Thị Ngọc Giàu Công nghệ tri thức + An toàn thông tin
+167 21120398 Trịnh Nguyễn Anh Khôi Thị giác máy tính
+168 21120402 Trương Hoàng Nhân Khoa học máy tính + Khoa học dữ liệu
+169 21120403 Nguyễn Hoàng Quân Khoa học máy tính + Khoa học dữ liệu
+170 21120405 Trần Minh Triết Hệ thống thông tin
+171 21120406 Lê Viết Đạt Trọng Hệ thống thông tin
+172 21120407 Trần Phan Phúc Ân Khoa học máy tính + Khoa học dữ liệu
+173 21120408 Đặng Tuấn Anh Kỹ thuật phần mềm
+174 21120409 Nguyễn Đức Duy Anh Khoa học máy tính + Khoa học dữ liệu
+175 21120410 Nguyễn Tuấn Anh Công nghệ thông tin
+176 21120411 Sần Dịch Anh Khoa học máy tính + Khoa học dữ liệu
+177 21120412 Trần Gia Bách Kỹ thuật phần mềm
+178 21120413 Bùi Thiên Bảo Khoa học máy tính + Khoa học dữ liệu
+179 21120414 Hà Quốc Bảo Mạng máy tính và viễn thông
+180 21120416 Võ Quốc Bảo Hệ thống thông tin
+181 21120417 Nguyễn Thị Ngọc Châm Công nghệ tri thức + An toàn thông tin
+182 21120418 Nguyễn Chí Công Hệ thống thông tin
+183 21120419 Vũ Thành Công Công nghệ tri thức + An toàn thông tin
+184 21120420 Lê Huỳnh Cường Kỹ thuật phần mềm
+185 21120421 Nguyễn Chí Cường Kỹ thuật phần mềm
+186 21120423 Phạm Mạnh Cường Kỹ thuật phần mềm
+187 21120424 Nguyễn Đình Phương Đại Hệ thống thông tin
+Page 4/ 7STT MSSV Họ SV Tên SV Ngành/Chuyên Ngành Ghi chú
+188 21120425 Hứa Phúc Đăng Thị giác máy tính
+189 21120426 Huỳnh Phát Đạt Công nghệ thông tin
+190 21120428 Lương Thành Đạt Hệ thống thông tin
+191 21120429 Lưu Kiến Đạt Khoa học máy tính + Khoa học dữ liệu
+192 21120430 Ngô Tuấn Đạt Hệ thống thông tin
+193 21120432 Vũ Tiến Đạt Kỹ thuật phần mềm
+194 21120433 Nguyễn Quang Định Hệ thống thông tin
+195 21120434 Bùi Tiến Dũng Hệ thống thông tin
+196 21120435 Lê Phan Xuân Dũng Hệ thống thông tin
+197 21120436 Châu Quý Dương Kỹ thuật phần mềm
+198 21120437 Châu Thanh Dương Hệ thống thông tin
+199 21120439 Bùi Minh Duy Hệ thống thông tin
+200 21120440 Chu Quang Duy Kỹ thuật phần mềm
+201 21120441 Dương Huỳnh Anh Duy Công nghệ thông tin
+202 21120442 Trần Đăng Duy Hệ thống thông tin
+203 21120443 Phạm Thế Duyệt Hệ thống thông tin
+204 21120445 Lê Thanh Hải Công nghệ tri thức + An toàn thông tin
+205 21120446 Kiên Đinh mỹ Hạnh Công nghệ tri thức + An toàn thông tin
+206 21120447 Nguyễn Nhật Hào Kỹ thuật phần mềm
+207 21120448 Tô Hữu Hảo Mạng máy tính và viễn thông
+208 21120449 Nguyễn Văn Hậu Khoa học máy tính + Khoa học dữ liệu
+209 21120450 Trương Thế Hiển Kỹ thuật phần mềm
+210 21120451 Lê Bảo Hiếu Khoa học máy tính + Khoa học dữ liệu
+211 21120453 Tô Phương Hiếu Kỹ thuật phần mềm
+212 21120454 Nguyễn Đức Hoài Kỹ thuật phần mềm
+213 21120455 Trương Văn Hoài Kỹ thuật phần mềm
+214 21120456 Khưu Tấn Hoàng Công nghệ thông tin
+215 21120457 Lê Minh Hoàng Kỹ thuật phần mềm
+216 21120458 Nguyễn Huy Hoàng Công nghệ tri thức + An toàn thông tin
+217 21120460 Nguyễn Tấn Hùng Kỹ thuật phần mềm
+218 21120461 Đàm Hồng Hưng Kỹ thuật phần mềm
+219 21120464 Nguyễn Quốc Hưng Khoa học máy tính + Khoa học dữ liệu
+220 21120465 Đoàn Đức Hữu Công nghệ thông tin
+221 21120466 Lê Huy Mạng máy tính và viễn thông Không đăng ký nguyện vọng chuyên ngành
+222 21120467 Ngô Quốc Huy Kỹ thuật phần mềm
+223 21120468 Nguyễn Gia Huy Kỹ thuật phần mềm
+224 21120470 Nguyễn Võ Nhật Huy Hệ thống thông tin
+225 21120472 Quách Đức Huy Hệ thống thông tin
+226 21120473 Trần Nguyễn Gia Huy Hệ thống thông tin
+227 21120474 Võ Đức Huy Hệ thống thông tin
+228 21120475 Nguyễn Ngọc Như Huyền Khoa học máy tính + Khoa học dữ liệu
+229 21120477 Vương Huỳnh Khải Kỹ thuật phần mềm
+230 21120480 Tạ Ngọc Duy Khiêm Kỹ thuật phần mềm
+231 21120481 Châu Hoàng Khoa Kỹ thuật phần mềm
+232 21120484 Trần Nguyễn Minh Khôi Hệ thống thông tin
+233 21120485 Hoàng Thị Khôn Hệ thống thông tin
+234 21120486 Võ Minh Khuê Khoa học máy tính + Khoa học dữ liệu
+235 21120488 Nguyễn Đăng bá Kiệt Thị giác máy tính
+Page 5/ 7STT MSSV Họ SV Tên SV Ngành/Chuyên Ngành Ghi chú
+236 21120492 Trần Mỹ Phú Lâm Kỹ thuật phần mềm
+237 21120493 Nguyễn Ngọc Lan Hệ thống thông tin
+238 21120494 Hồ Trọng Lễ Khoa học máy tính + Khoa học dữ liệu
+239 21120495 Phạm Thị mỹ Lệ Kỹ thuật phần mềm
+240 21120496 Chu Hải Linh Khoa học máy tính + Khoa học dữ liệu
+241 21120497 Nguyễn Hữu Lộc Thị giác máy tính
+242 21120499 Nguyễn Duy Long Mạng máy tính và viễn thông
+243 21120500 Mai Văn Minh Kỹ thuật phần mềm
+244 21120501 Nguyễn Ngọc Gia Minh Khoa học máy tính + Khoa học dữ liệu
+245 21120502 Trần Đức Minh Kỹ thuật phần mềm
+246 21120504 Nguyễn Phương Nam Khoa học máy tính + Khoa học dữ liệu
+247 21120505 Bùi Thị Thanh Ngân Công nghệ tri thức + An toàn thông tin
+248 21120506 Nguyễn Thị Kiều Ngân Thị giác máy tính
+249 21120508 Đặng an Nguyên Kỹ thuật phần mềm
+250 21120512 Nguyễn Thị Nguyệt Công nghệ tri thức + An toàn thông tin
+251 21120514 Nguyễn Thành Nhân Kỹ thuật phần mềm
+252 21120515 Trần Phước Nhân Kỹ thuật phần mềm
+253 21120516 Võ Bá Hoàng Nhất Khoa học máy tính + Khoa học dữ liệu
+254 21120517 Nguyễn Thúc Minh Nhật Kỹ thuật phần mềm
+255 21120519 Lê Thanh Phát Kỹ thuật phần mềm
+256 21120520 Lê Tiến Phát Công nghệ tri thức + An toàn thông tin
+257 21120521 Nguyễn Phúc Phát Kỹ thuật phần mềm
+258 21120522 Phạm Vĩnh Phát Mạng máy tính và viễn thông
+259 21120523 Tiêu Ngọc Phát Hệ thống thông tin
+260 21120524 Trương Minh Phát Kỹ thuật phần mềm
+261 21120525 Cao Nhật Phong Công nghệ thông tin
+262 21120526 Lê Văn Đan Phong Kỹ thuật phần mềm
+263 21120529 Nguyễn Gia Phúc Khoa học máy tính + Khoa học dữ liệu
+264 21120530 Nguyễn Hoàng Phúc Kỹ thuật phần mềm
+265 21120531 Nguyễn Văn Phúc Công nghệ thông tin
+266 21120534 Trần Văn Phương Kỹ thuật phần mềm
+267 21120535 Nguyễn Đình Hoàng Quân Công nghệ thông tin
+268 21120537 Trần Huỳnh Anh Quân Kỹ thuật phần mềm
+269 21120538 Lưu Vĩnh Quang Kỹ thuật phần mềm
+270 21120539 Trần Minh Quang Khoa học máy tính + Khoa học dữ liệu
+271 21120540 Trần Tôn Bửu Quang Kỹ thuật phần mềm
+272 21120541 Hoàng Văn Quốc Kỹ thuật phần mềm
+273 21120542 Lâm Hoàng Quốc Kỹ thuật phần mềm
+274 21120543 Nguyễn Đặng Quốc Kỹ thuật phần mềm
+275 21120544 Lê Minh Sang Kỹ thuật phần mềm
+276 21120546 Nguyễn Thanh Sang Khoa học máy tính + Khoa học dữ liệu
+277 21120547 Thạch Thị Sinh Không đạt điều kiện xét
+278 21120548 Lâm Chanh cô Sol Hệ thống thông tin
+279 21120549 Trần Bùi Thái Sơn Công nghệ tri thức + An toàn thông tin
+280 21120550 Chu Văn Tài Kỹ thuật phần mềm
+281 21120551 Đàm tử Tâm Kỹ thuật phần mềm
+282 21120552 Nguyễn Đức Nhật Tân Kỹ thuật phần mềm
+283 21120553 Trần Thái Tân Kỹ thuật phần mềm
+Page 6/ 7STT MSSV Họ SV Tên SV Ngành/Chuyên Ngành Ghi chú
+284 21120555 Nguyễn Hữu Thắng Hệ thống thông tin
+285 21120559 Nguyễn Ngọc Thiên Công nghệ tri thức + An toàn thông tin
+286 21120560 Nguyễn Đức Thiện Kỹ thuật phần mềm
+287 21120561 Bùi Đức Thịnh Kỹ thuật phần mềm
+288 21120562 Trần Quốc Thịnh Thị giác máy tính
+289 21120563 Huỳnh Thanh Thoại Hệ thống thông tin
+290 21120564 Thạch Chí Thông Công nghệ thông tin
+291 21120565 Trần Văn Thông Công nghệ tri thức + An toàn thông tin
+292 21120566 Nguyễn Hữu Thuận Công nghệ tri thức + An toàn thông tin
+293 21120567 Trịnh Minh Thuận Kỹ thuật phần mềm
+294 21120568 Lê Nguyễn Phương Thy Hệ thống thông tin
+295 21120569 Phạm Đình Tiến Kỹ thuật phần mềm
+296 21120570 Đặng Nguyễn Thanh Tín Khoa học máy tính + Khoa học dữ liệu
+297 21120572 Ngũ Duy Tính Công nghệ tri thức + An toàn thông tin
+298 21120573 Lê Phước Đoan Trang Hệ thống thông tin
+299 21120574 Nguyễn Minh Trí Khoa học máy tính + Khoa học dữ liệu
+300 21120575 Nguyễn Thành Trí Kỹ thuật phần mềm
+301 21120576 Trần Đình Nhật Trí Khoa học máy tính + Khoa học dữ liệu
+302 21120578 Trần Minh Triết Hệ thống thông tin
+303 21120579 Phạm Thị Kiều Trinh Hệ thống thông tin
+304 21120580 Trần Thị Kim Trinh Khoa học máy tính + Khoa học dữ liệu
+305 21120581 Lê Phan Thủy Trúc Kỹ thuật phần mềm
+306 21120582 Đinh Hoàng Trung Hệ thống thông tin
+307 21120584 Lê Quý Trung Công nghệ tri thức + An toàn thông tin
+308 21120585 Lê Anh Tú Kỹ thuật phần mềm
+309 21120587 Nguyễn Minh Tuấn Thị giác máy tính
+310 21120588 Nguyễn Phước Anh Tuấn Kỹ thuật phần mềm
+311 21120589 Trương Anh Tuấn Kỹ thuật phần mềm
+312 21120590 Nguyễn Thủy Uyên Khoa học máy tính + Khoa học dữ liệu
+313 21120592 Nguyễn Xuân Vi Kỹ thuật phần mềm
+314 21120594 Trần Công Việt Kỹ thuật phần mềm
+315 21120595 Nguyễn Thành Vinh Không đạt điều kiện xét
+316 21120596 Trần Đoàn Thanh Vinh Công nghệ thông tin
+317 21120597 Mai Huy Vũ Công nghệ thông tin
+318 21120600 Nguyễn Thị Như Ý Kỹ thuật phần mềm
+319 21120603 Nguyễn Thị Hồng Nhung Công nghệ tri thức + An toàn thông tin
+320 21120606 Lâm Hoài Hiếu Công nghệ thông tin
+321 21120607 Trần Thị Kim Huỳnh Công nghệ tri thức + An toàn thông tin
+322 21120608 Nguyễn Thiện Khánh Đoan Mạng máy tính và viễn thông Không đăng ký nguyện vọng chuyên ngành
+323 21120610 Trương Đức Phát Hệ thống thông tin
+324 21120612 Nguyễn Minh Thuận Hệ thống thông tin
+325 21120614 Lê Hồ Thanh Tùng Hệ thống thông tin
+326 21120616 Trương Nguyễn Huy Vũ Thị giác máy tính
+327 21120618 Trần Tấn Sang Công nghệ thông tin
+328 21120619 Lê Quang Ngọ Công nghệ thông tin
+Danh sách có 328 sinh viên
+Page 7/ 7

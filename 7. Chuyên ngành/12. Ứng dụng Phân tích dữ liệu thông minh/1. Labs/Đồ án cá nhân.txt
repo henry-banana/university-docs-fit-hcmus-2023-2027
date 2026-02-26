@@ -1,0 +1,7 @@
+Based on the provided dataset (https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset/data),
+
+Propose analyses and conclusions regarding the insights obtained.
+
+Submission format: A report + a notebook (name the file as MSSV.zip).
+
+Note: The report must summarize the results achieved

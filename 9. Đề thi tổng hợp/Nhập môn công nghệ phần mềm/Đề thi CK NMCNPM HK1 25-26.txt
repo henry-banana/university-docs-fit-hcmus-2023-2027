@@ -1,0 +1,20 @@
+1.Lý thuyết 4đ
+Hãy nêu 4 nguyên tắc trong XP và đặc điểm.
+Nêu đặc trưng, điểm mạnh yếu của test driven development.
+Nêu diagram V-Model và nêu ngắn gọn các đặc điểm của nó.
+Performance testing vs stress testing.
+
+2. Thực hành 5đ
+Tóm tắt đề bài: Xây dựng phần mềm chấm điểm hành vi, các thành viên phải đăng ký xác thực, thang điểm ABCD, mỗi thang có quyền lợi/hạn chế. Thành viên có thể bổ sung hành vi tích cực + minh chứng để được cộng điểm. Có hệ thống giám sát vi phạm và trừ điểm. Thành viên bị trừ điểm có thể khiếu nại trong 30 ngày, bộ phận xử lí khiếu nại sẽ tiếp nhận và xử lí hồ sơ với 4 trạng thái: Chờ xử lí, Đã tiếp nhận, Đang các minh, Hoàn tất.
+Yêu cầu:
+Vẽ use case diagram.
+Viết đặc tả cho chức năng "Hành vi tích cực".
+Vẽ component diagram và mô tả các thành phần.
+Cho 2 test case "Khiếu nại" và thiết kế giao diện cho chức năng khiếu nại.
+
+3. Tự đánh giá 1đ
+Đồ án nhóm em có sử dụng AI Agent hay không? Nếu chưa, hãy đề xuất ý tưởng tích hợp AI Agent vào đồ án.
+Với việc AI ngày càng làm tốt việc coding cơ bản thì với vai trò là Junior Dev, theo em, cần chuyển sang kỹ năng nào.
+Nêu nhiệm vụ tư duy mà AI hiện tại gặp khó khăn.
+
+*Lưu ý: Đề thi được ghi lại theo trí nhớ nên không đảm bảo chính xác 100%
