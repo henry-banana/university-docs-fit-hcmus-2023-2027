@@ -1,0 +1,26 @@
+Đề thi nhập môn học máy học kì 2 năm học 2023-2024 - Thầy Bùi Tiến Lên
+
+Câu 1: Cho 1 dataset gồm 4 samples (xi,yi). Tìm mô hình hồi quy tuyến tính tốt nhất và vẽ hình trực quan.
+
+Câu 2: Cho 1 dataset gồm 10 samples (x1_i,x_2i) dạng số (miền giá trị liên tục). Vẽ cây quyết định tốt nhất, vẽ đường phân chia, miền quyết định, trực quan.
+
+Câu 3: Cho 1 dataset gồm 4 samples (xi,yi). Thiết kế mạng MultiLayerPerceltron (bao gồm kiến trúc, trọng số, hàm kích hoạt) tốt nhất.
+
+Câu 4: Cho 1 bộ ngữ liệu (4 câu). Lập mô hình Bi-gram.
+
+Câu 5: Xác suất từ tiếp theo xuất hiện (dựa vào câu 4).
+
+Câu 6: Cho 1 ma trận 3x3, kernel 3x3. Cho K,S,P. Tìm kết quả của phép chập.
+
+Câu 7: Attention Layer - Cho trước q,k,v, score rồi tính đầu ra output.
+
+Câu 8: Điền giá trị các node của đồ thị tính toán.
+
+Câu 9: Tính đạo hàm theo các biến và cập nhật trọng số (các biến được cho dưới dạng ma trận).
+
+Câu 10: 1đ trình bày
+
+Nhận xét: Đề khá nhẹ nhàng, làm kĩ, trình bày  sạch sẽ auto điểm cao - dự đoán mưa điểm 9,10.
+Cuối kì (40%)
+Thực hành cũng khá dễ (gồm 4 bài Lab - 50%)
+Chuyên cần điểm danh (10%)
