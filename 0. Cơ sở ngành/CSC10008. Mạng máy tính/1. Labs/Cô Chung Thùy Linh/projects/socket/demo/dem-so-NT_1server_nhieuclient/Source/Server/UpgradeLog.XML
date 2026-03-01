@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Server">
+</Property><Property Name="Solution File" Value="D:\LE HOA\Dropbox\TEACHING\KHTN\5_HKII - 13-14\CQ_MMT\DoAn\DA1_Socket\HDTH_DA_Socket\Demo\DemSoNT_1Server_NhieuClient\Source\Server\Server.sln">
+</Property><Property Name="User Options File" Value="D:\LE HOA\Dropbox\TEACHING\KHTN\5_HKII - 13-14\CQ_MMT\DoAn\DA1_Socket\HDTH_DA_Socket\Demo\DemSoNT_1Server_NhieuClient\Source\Server\Server.suo">
+</Property><Property Name="Date" Value="Monday, March 24, 2014">
+</Property><Property Name="Time" Value="13:48 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Server.sln" Description="File successfully backed up as D:\LE HOA\Dropbox\TEACHING\KHTN\5_HKII - 13-14\CQ_MMT\DoAn\DA1_Socket\HDTH_DA_Socket\Demo\DemSoNT_1Server_NhieuClient\Source\Server\Server.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Server.suo" Description="File successfully backed up as D:\LE HOA\Dropbox\TEACHING\KHTN\5_HKII - 13-14\CQ_MMT\DoAn\DA1_Socket\HDTH_DA_Socket\Demo\DemSoNT_1Server_NhieuClient\Source\Server\Server.suo.old">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Server.vcproj" Description="Converting project file 'D:\LE HOA\Dropbox\TEACHING\KHTN\5_HKII - 13-14\CQ_MMT\DoAn\DA1_Socket\HDTH_DA_Socket\Demo\DemSoNT_1Server_NhieuClient\Source\Server\Server\Server.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Server" Source="Server\Server.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Server.vcproj" Description="Done converting to new project file 'D:\LE HOA\Dropbox\TEACHING\KHTN\5_HKII - 13-14\CQ_MMT\DoAn\DA1_Socket\HDTH_DA_Socket\Demo\DemSoNT_1Server_NhieuClient\Source\Server\Server\Server.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Server" Source="Server\Server.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Server.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Server.sln" Description="Converted">
+</Event></UpgradeLog>

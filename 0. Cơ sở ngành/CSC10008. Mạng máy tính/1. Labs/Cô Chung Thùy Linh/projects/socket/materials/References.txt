@@ -1,0 +1,20 @@
+https://www.golinuxcloud.com/check-threads-per-process-count-processes/
+https://medium.com/swlh/lets-write-a-chat-app-in-python-f6783a9ac170
+https://gpcoder.com/3679-xay-dung-ung-dung-client-server-voi-socket-trong-java/
+
+
+
+https://askubuntu.com/questions/815874/importerror-no-named-tkinter-please-install-the-python3-tk-package
+sudo apt-get install python3-tk Installs tkinter for Python3.x.x
+
+
+# 0
+https://realpython.com/python-sockets/
+# 1
+
+# 2
+
+
+"key" : value
+
+{"a": 1, "b": 2}

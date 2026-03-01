@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Client">
+</Property><Property Name="Solution File" Value="D:\LE HOA\Dropbox\TEACHING\KHTN\5_HKII - 13-14\CQ_MMT\DoAn\DA1_Socket\HDTH_DA_Socket\Demo\DemSoNT_1Server_NhieuClient\Source\Client\Client.sln">
+</Property><Property Name="User Options File" Value="D:\LE HOA\Dropbox\TEACHING\KHTN\5_HKII - 13-14\CQ_MMT\DoAn\DA1_Socket\HDTH_DA_Socket\Demo\DemSoNT_1Server_NhieuClient\Source\Client\Client.suo">
+</Property><Property Name="Date" Value="Monday, March 24, 2014">
+</Property><Property Name="Time" Value="13:49 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Client.sln" Description="File successfully backed up as D:\LE HOA\Dropbox\TEACHING\KHTN\5_HKII - 13-14\CQ_MMT\DoAn\DA1_Socket\HDTH_DA_Socket\Demo\DemSoNT_1Server_NhieuClient\Source\Client\Client.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Client.suo" Description="File successfully backed up as D:\LE HOA\Dropbox\TEACHING\KHTN\5_HKII - 13-14\CQ_MMT\DoAn\DA1_Socket\HDTH_DA_Socket\Demo\DemSoNT_1Server_NhieuClient\Source\Client\Client.suo.old">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Client.vcproj" Description="Converting project file 'D:\LE HOA\Dropbox\TEACHING\KHTN\5_HKII - 13-14\CQ_MMT\DoAn\DA1_Socket\HDTH_DA_Socket\Demo\DemSoNT_1Server_NhieuClient\Source\Client\Client\Client.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Client" Source="Client\Client.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Client.vcproj" Description="Done converting to new project file 'D:\LE HOA\Dropbox\TEACHING\KHTN\5_HKII - 13-14\CQ_MMT\DoAn\DA1_Socket\HDTH_DA_Socket\Demo\DemSoNT_1Server_NhieuClient\Source\Client\Client\Client.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Client" Source="Client\Client.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Client.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Client.sln" Description="Converted">
+</Event></UpgradeLog>

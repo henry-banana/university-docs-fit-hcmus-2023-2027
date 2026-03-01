@@ -1,0 +1,31 @@
+A. Cách cấu hình IP cho router:
+Cách 1: dùng giao diện (file hướng dẫn)
+Cách 2: dùng lệnh
+Router> enable	//chuyển sang priviledge mode
+Router# config terminal	//chuyển sang config mode
+Router(config)#interface <tên interface> // config cho từng interface
+Router(config-if)#ip address <IP> <Subnet mask>	//cấu hình IP
+Router(config-if)#no shutdown	//chuyển trạng thái interface
+
+B. Cấu hình định tuyến
+Cách 1:
+Router(config)# ip route <network address> <Subnet mask> <out interface name>
+Vd:
+Router(config)# ip route 192.168.1.0 255.255.255.0 f0/0
+
+Cách 2:
+Router(config)# ip route <network address> <Subnet mask> <Nexthop's IP>
+Vd:
+Router(config)# ip route 192.168.1.0 255.255.255.0 192.168.2.2
+
+C. Cách kiểm tra thông tin cấu hình trên router
+1. Kiểm tra IP
+Router# show ip interface brief
+2. Kiểm tra thông tin định tuyến
+Router# show ip route
+3. Ping từ router
+Router# ping <IP>
+
+D. Lưu cấu hình của router:
+Router# write
+Router# copy running-config startup-config
