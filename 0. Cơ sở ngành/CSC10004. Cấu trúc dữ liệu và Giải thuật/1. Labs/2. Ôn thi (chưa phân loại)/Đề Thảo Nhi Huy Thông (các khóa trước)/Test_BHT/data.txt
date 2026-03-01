@@ -1,0 +1,11 @@
+3 6
+a b d d e f
+f e c c b a
+a b d d e f
+2 3
+
+0.1.10.12345
+Vietnam,10,10
+Congo,10,10
+Falkland Islands,10,10
+Anguilla,10,10

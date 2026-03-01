@@ -1,0 +1,7 @@
+id title year rating ratingCount runtime genres director
+tt0081505 The_Shining 1980 8.4 1100742 8760 Drama,Horror Stanley_Kubrick
+tt0114369 Se7en 1995 8.6 1787826 7620 Crime,Drama,Mystery David_Fincher
+tt0047396 Rear_Window 1954 8.5 519998 6720 Mystery,Thriller Alfred_Hitchcock
+tt0468569 The_Dark_Knight 2008 9 2854792 9120 Action,Crime,Drama Christopher_Nolan
+tt0053125 North_by_Northwest 1959 8.3 344770 8160 Action,Adventure,Mystery Alfred_Hitchcock
+tt0056869 The_Birds 1963 7.6 203695 7140 Drama,Horror,Mystery Alfred_Hitchcock

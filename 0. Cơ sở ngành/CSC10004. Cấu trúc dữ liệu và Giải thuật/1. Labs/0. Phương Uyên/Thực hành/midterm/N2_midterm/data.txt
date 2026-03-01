@@ -1,0 +1,6 @@
+ID title producer length views
+ST-001 Stranger_Things_Season_1_Episode_1 Netflix 5200 234567
+ST-006 Stranger_Things_Season_1_Episode_6 Netflix 5870 256789
+ST-003 Stranger_Things_Season_1_Episode_3 Netflix 5480 222333
+ST-005 Stranger_Things_Season_1_Episode_5 Netflix 5740 234567
+ST-002 Stranger_Things_Season_1_Episode_2 Netflix 5350 213456

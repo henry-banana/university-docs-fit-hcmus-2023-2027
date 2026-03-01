@@ -1,0 +1,6 @@
+Implement the operations/functions removeAll, removeBefore, removeAfter, addPos, removePos, addBefore, addAfter, reverseList, and removeDuplicate from the Singly Linked List section using the DNODE and DList structs defined in the Doubly Linked List section.
+Implement all operations/functions from the Stack - Queue section.
+OOP: initialize(int key), push(int key), enqueue(int key).
+Procedural: initializeStack(Stack& s, int key), push(Stack &s, int key), isEmptyStack(Stack s). Similar for Queue.
+For other operations/functions, keep the original name (no parameters).
+Implement the main function that demonstrates the usage of your implemented functions.
