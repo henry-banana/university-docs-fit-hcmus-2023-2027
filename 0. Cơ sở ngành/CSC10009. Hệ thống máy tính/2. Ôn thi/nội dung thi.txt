@@ -1,0 +1,108 @@
+Nội dung thi cuối kì HTMT
+* Trắc nghiệm: 50 câu / 75 phút (đề thi chung)
+* Được sử dụng: 1 tờ A4 (2 mặt viết tay/đánh máy, sao cũng được) làm tài liệu. Không sử dụng máy tính cầm tay Casio.
+________________
+
+
+Chương tổng quan (4 – 5 câu)
+* Các thế hệ máy tính: Thời gian ra đời, tên công nghệ (tiếng Việt/Anh), máy tính đại diện
+* Định luật Moore: nội dung, người phát biểu
+* Các thành phần cơ bản của máy tính
+* 2 thành phần bên trong vi xử lý: Control Unit, Data Path
+* Các khái niệm cơ bản: Wafer, Chip, Chip set. Một số chip set thông dụng.
+________________
+
+
+Chương 2: Biểu diễn và tính tổng số nguyên
+* Các hệ cơ số: 2, 10, 16
+* Chuyển đổi giữa các hệ cơ số: 2, 10, 16
+* Biểu diễn số nguyên không dấu
+* Biểu diễn số nguyên có dấu: Nhược điểm + đặc điểm khi tính toán
+   * Dấu lượng
+   * Bù 1
+   * Bù 2 (sử dụng trên các dòng máy tính ngày nay)
+   * Quá K
+* Các thao tác trên bit: and, or, xor, not, SHL, SHR, SAR (dịch phải số học) và ứng dụng: đọc dãy bit của x, gắn bit 1 vào vị trí i của x, …
+* Các thuật toán tính toán số học: + - * /, có dấu và không dấu
+* Phân biệt 2 chuẩn đo lường SI và IEC
+________________
+
+
+Chương 3: Biểu diễn số thực
+* Cấu trúc của số thực chính xác đơn (32bit) và kép (64bit)
+* Chuyển đổi số thực hệ 10 về số thực chính xác đơn 32bit và ngược lại. (Lưu ý trường hợp Denormalize)
+* Các số thực đặc biệt
+* Cách tính độ chênh lệch số thực
+* Miền biểu diễn của số thực ở dạng chuẩn Normalize và không chuẩn Denormalize
+* Phương pháp làm tròn bit khi vượt giới hạn bit lưu trữ phần trị
+________________
+
+
+Chương 4: Kiến trúc bộ lệnh
+* Phân biệt 3 khái niệm: ngôn ngữ lập trình, ngôn ngữ máy, hợp ngữ
+* Compiler, assembler và gì và phụ thuộc vào gì
+* Cấu tạo của 1 lệnh máy
+* Kiến trúc bộ lệnh là gì? Một số kiến trúc bộ lệnh thông dụng
+* Đặc điểm trường phái thiết kế bộ lệnh CISC và RISC và bộ lệnh đại diện cho các trường phái thiết kế nào (ưu nhược điểm)
+* Linker và Loader
+* Quá trình tạo file thực thi .exe như thế nào
+* Quá trình xử lí lệnh của CPU
+* Một số thanh ghi cơ bản trong CPU
+________________
+
+
+Chương 5 + 6: Bộ lệnh LEGv8 + x86 – 32bit
+* Tập thanh ghi: nhóm thanh ghi + chức năng
+* Tập lệnh:
+   * Lệnh tính toán số học + logic
+   * Lệnh rẽ nhánh (lệnh nhảy có/không điều kiện)
+   * Lệnh di chuyển dữ liệu: copy / ghi bộ nhớ (load/store)
+* Triển khai vòng lặp, if-else, switch-case
+* Thao tác với stack, mảng 1 chiều
+* Thủ tục / hàm (cách thanh ghi liên quan: Tham số, kết quả trả về, gọi hàm, return, …)
+* LEGv8: đọc thêm phụ lục về Format lệnh + sơ đồ thiết kế vi xử lý LEGv8
+* So sánh LEGv8 với x86 (cái gì mà LEGv8 không cho thao tác trực tiếp trên biến mà x86 thì cho đó)
+________________
+
+
+Chương 7: Mạch logic
+* Khái niệm mạch tổ hợp
+* Các bước thiết kế mạch tổ hợp
+* Cách đơn giản biểu diễn chân lí (dùng biểu đồ Karnaugh)
+* SOP, POS kết hợp với Karnaugh: khi nào dùng cái nào?
+* Biến đầu vào + điều kiện lựa chọn: Dạng diễn hàm luận lý thế nào?
+* Một số mạch logic cơ bản: mạch cộng, mạch so sánh, mạch mã hóa, mạch giải mã, mạch dồn, mạch tách
+* Đọc thêm mạch tuần tự: Latch + Flip-Flop (ứng dụng trong thanh ghi dịch)
+________________
+
+
+Chương 8: Bộ nhớ
+* Các dạng bộ nhớ bên trong máy tính
+* Một số thiết bị bộ nhớ hiện nay: (Sắp xếp theo tốc độ / giá thành / dung lượng)
+* Phân biệt SRAM/DRAM
+* 2 nguyên lý làm cơ sở truy xuất: cục bộ không gian và thời gian
+* Các phương pháp ánh xạ dữ liệu vào cache: Ưu nhược điểm từng phương pháp + xác định các trường dữ liệu của địa chỉ
+* Các phương pháp thay thế dữ liệu trên cache (Random, FIFO, LFU, LRU) chú ý LRU là tốt nhất
+* Các yếu tố ảnh hưởng đến hiệu suất cache: cache size / block size
+* Các phương pháp đồng bộ dữ liệu cache và em
+* Đọc thêm phần cấu tạo đĩa từ và tính dung lượng đĩa từ
+________________
+
+
+Chương 9: Hệ thống nhập xuất
+* Tự đọc: tìm hiểu các thiết bị nhập xuất hiện nay
+________________
+
+Dung lượng cache = 256KB
+Kích thước 1 line = 1 block = 32 bytes
+- Xác định cụ thể số bit cho 3 trường địa chỉ của X (W, L, T) nếu tổ chức theo kiểu direct mapping
+
+RAM = 4GB = 2^32 bytes
+--> Chiều dài địa chỉ N = 32 bit (W, L, T)
+
+Kích thước 1 line = 1 block = 32 bytes = 2^5 bytes
+--> W dùng 5 bit
+Kích thước cache = 256KB = 2^18 byte
+--> Số line trong cache = 2^18 / 2^5 = 2^13 lines
+--> L dùng 13 bit
+--> T = N - (W + L) = 32 - (5 + 13) = 14 bit
