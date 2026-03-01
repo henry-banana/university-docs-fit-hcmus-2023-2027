@@ -1,0 +1,8 @@
+Continue the project in G04 to add the search and filtering feature to your project. Furthermore, enhance the detail page and authentication pages.
+Implement search functionality for product names and descriptions: 2  points.
+Combine search with filtering, allowing users to filter based on at least four attributes: 2 points.
+Add a section for relevant products on each product detail page to increase user engagement: 1 point.
+Design a home page featuring promotions, featured products, and other relevant elements to attract users: 1 point.
+Develop a login page as part of the user authentication flow: 1 point.
+Host the project publicly to allow external access and testing: 1 point.
+Optionally, prepare the UI for a full authentication flow, even if backend functionality is not implemented.

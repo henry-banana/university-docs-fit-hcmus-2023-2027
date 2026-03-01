@@ -1,0 +1,9 @@
+Develop a simple server-side application using Express.js and the MVC architecture. Select a database (e.g., MongoDB, PostgreSQL, MySQL) and an optional ORM to store data for products and users. This project will showcase your ability to structure applications using MVC, connect to a database, and build user-friendly web pages for product listings, product details, and user registration.
+
+
+
+Rubric:
+Product list: 3 points
+Product detail: 3 points
+Registration: 3 points
+Public host deployment: 1 point.
