@@ -1,7 +1,0 @@
-nvkt: Tran Van A (Tp Ho Chi Minh) [Dien] <10>
-nvtk: Nguyen Thi B (Tp Ho Chi Minh) [Anh] <11>
-nvkt: Le Van C (Tp Ha Noi) [IT] <4>
-nvkt: Pham Van D (Tp Hai Phong) [Dien] <5>
-nvtk: Tran Thi E (Long An) [Phap] <19>
-nvkt: Ngo Van F (Tp Ho Chi Minh) [XayDung] <6>
-nvtk: Phan Thi G (Can Tho) [Phap] <13>
