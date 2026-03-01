@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center"
+    tools:context=".ContextFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2️⃣ Context Menu"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textColor="#7B1FA2"
+        android:layout_marginBottom="24dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bấm và giữ vào các text bên dưới để xem Context Menu"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:layout_marginBottom="32dp" />
+
+    <TextView
+        android:id="@+id/tvContextMenu1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Document 1\n Nhấn giữ để xem menu"
+        android:textSize="16sp"
+        android:background="#F3E5F5"
+        android:padding="20dp"
+        android:gravity="center"
+        android:layout_marginBottom="16dp"
+        android:textColor="#7B1FA2" />
+
+    <TextView
+        android:id="@+id/tvContextMenu2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Document 2\n Nhấn giữ để xem menu"
+        android:textSize="16sp"
+        android:background="#E1BEE7"
+        android:padding="20dp"
+        android:gravity="center"
+        android:layout_marginBottom="16dp"
+        android:textColor="#4A148C" />
+
+    <TextView
+        android:id="@+id/tvContextMenu3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#CE93D8"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="Document 3\n Nhấn giữ để xem menu"
+        android:textColor="#39263A"
+        android:layout_marginBottom="16dp"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tvContextMenu4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#D204F8"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="Document 4\n Nhấn giữ để xem menu"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp" />
+
+</LinearLayout>
+

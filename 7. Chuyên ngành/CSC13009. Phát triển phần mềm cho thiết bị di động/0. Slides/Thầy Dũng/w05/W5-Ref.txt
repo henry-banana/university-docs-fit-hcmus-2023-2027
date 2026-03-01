@@ -1,0 +1,2 @@
+Mastering RecyclerView Layouts
+	https://www.youtube.com/watch?v=gs_C1E8HwvE&list=WL&index=23

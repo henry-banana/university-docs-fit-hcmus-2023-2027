@@ -1,0 +1,3 @@
+Page 57 / 68:
+- Load and display photos from your phone (SDCard, internal storage...) using GridView, RecyclerView, CardView
+- Tap an item and display that photo in new activity

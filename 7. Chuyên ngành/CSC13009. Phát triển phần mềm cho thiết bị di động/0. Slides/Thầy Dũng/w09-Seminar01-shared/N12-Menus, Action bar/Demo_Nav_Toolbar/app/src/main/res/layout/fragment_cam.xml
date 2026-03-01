@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".CAMFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="3️⃣ Contextual Action Mode (CAM)"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textColor="#388E3C"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Click vào các item để chọn\nThanh action sẽ xuất hiện ở trên cùng"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:layout_marginBottom="24dp" />
+
+    <TextView
+        android:id="@+id/tvItem1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Item 1 - Folder Documents"
+        android:textSize="16sp"
+        android:background="#FFF3E0"
+        android:padding="16dp"
+        android:layout_marginBottom="12dp" />
+
+    <TextView
+        android:id="@+id/tvItem2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Item 2 - Folder Pictures"
+        android:textSize="16sp"
+        android:background="#F3E5F5"
+        android:padding="16dp"
+        android:layout_marginBottom="12dp" />
+
+    <TextView
+        android:id="@+id/tvItem3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Item 3 - Folder Videos"
+        android:textSize="16sp"
+        android:background="#E8F5E9"
+        android:padding="16dp"
+        android:layout_marginBottom="12dp" />
+
+    <TextView
+        android:id="@+id/tvItem4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Item 4 - Folder Music"
+        android:textSize="16sp"
+        android:background="#FFEBEE"
+        android:padding="16dp"
+        android:layout_marginBottom="12dp" />
+
+    <TextView
+        android:id="@+id/tvItem5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Item 5 - Folder Downloads"
+        android:textSize="16sp"
+        android:background="#BFC2E0"
+        android:padding="16dp" />
+
+</LinearLayout>
+

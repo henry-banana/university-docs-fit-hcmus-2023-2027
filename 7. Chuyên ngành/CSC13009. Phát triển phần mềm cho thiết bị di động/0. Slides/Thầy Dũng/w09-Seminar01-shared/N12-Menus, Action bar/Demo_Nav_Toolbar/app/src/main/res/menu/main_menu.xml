@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:title="1. Options Menu"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/contextFragment"
+        android:title="2. Context Menu"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/camFragment"
+        android:title="3. CAM"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/popupFragment"
+        android:title="4. Popup Menu"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_search"
+        android:title="Search"
+        app:showAsAction="ifRoom" />
+
+</menu>
