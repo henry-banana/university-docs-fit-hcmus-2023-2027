@@ -1,5 +1,27 @@
 *.ini
 
+# Generated caches and local environments
+**/.gradle/
+**/__pycache__/
+**/*.py[cod]
+**/.pytest_cache/
+**/.cache/
+**/node_modules/
+**/.next/
+**/.venv/
+**/venv/
+**/.terraform/
+
+# Local secrets and state
+**/.env
+**/.env.*
+!**/.env.example
+**/*private*.pem
+**/*.jks
+**/*.keystore
+**/*.tfstate
+**/*.tfstate.*
+
 # Files too large
 **/07 - Network Layer -T10.11 a (1).pdf
 0. Cơ sở ngành/CSC10008. Mạng máy tính/1. Labs/Cô Chung Thùy Linh/projects/packet-tracer/ref.zip

@@ -28,6 +28,22 @@ Bao gồm:
 
 ---
 
+## 📥 Clone repository
+
+Repository có sử dụng Git submodule cho một số project code. Clone đầy đủ bằng:
+
+```bash
+git clone --recurse-submodules https://github.com/henry-banana/university-docs-fit-hcmus-2023-2027.git
+```
+
+Nếu đã clone trước đó, cập nhật submodule bằng:
+
+```bash
+git submodule update --init --recursive
+```
+
+---
+
 ## 📌 Liên hệ
 
 Mọi thắc mắc, góp ý hoặc lỗi trong nội dung, hãy mở issue hoặc liên hệ với [me](https://github.com/henry-banana).
