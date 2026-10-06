@@ -1,0 +1,74 @@
+// Cau 2a
+class EyedFace: public Face{
+private:
+	int eyes;	
+};
+
+void EyedFace::show(){
+	Face::show();
+	
+	// Nghia
+	cout << "Shape: " << getShape() << endl;
+
+	cout << "Eyes: " << eyes << endl;
+}
+
+EyedFace* EyedFace::clone(){
+	return new EyedFace(*this);
+}
+
+
+// Cau 2b
+Face fc;
+
+string Face::getShape(){
+	return shape;
+}
+
+// C1: viết thêm default cons còn thiếu
+Face::Face(){
+	shape = "No face";
+}
+
+// C2: Chỉnh lại cons 1 arg
+Face::Face(string sh="No face"): shape(sh){
+	
+}
+
+
+Face* Face::clone(){
+	return new Face(*this);
+}
+
+
+// C3: Sửa hàm main()
+int main(){
+	EyedFace fc("EF1");
+	EyedFace fc1("Rectangle");
+}
+
+
+// Câu 2c
+delete []a; // error
+delete a[0]; delete a[1]; delete a[2]; // error
+delete a[1]; delete a[2]; // ok
+
+
+
+private:
+	static int count;
+
+int EyedFace::count = 0;
+
+public:
+	static int getCount(){ 
+		return count; 
+	}
+
+
+Câu 3
+PlantUML
+Mermaid
+
+
+

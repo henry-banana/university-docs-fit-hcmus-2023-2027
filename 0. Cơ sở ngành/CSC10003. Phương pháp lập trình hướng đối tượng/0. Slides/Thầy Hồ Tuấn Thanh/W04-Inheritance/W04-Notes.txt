@@ -1,0 +1,27 @@
+MyString
+    operator>>
+    move constructor
+    move assignment operator
+
+Công ty ABC có 2 loại nhân viên:
+- Nhân viên sản xuất: mã nhân viên, họ tên, địa chỉ, số sản phẩm gia công trong tháng. Lương = số sản phẩm * 1000
+- Nhân viên công nhật: mã nhân viên, họ tên, địa chỉ, số ngày đi làm trong tháng. Lương = số ngày đi làm * 300000
+
+class NhanVien
+class NVSanXuat
+class NVCongNhat
+kế thừa 
+
+1. Khai báo các class và kế thừa
+
+2. Khai báo các thuộc tính trong các class
+
+3. Viết hàm nhập từ keyboard class NhanVien
+
+4. Viết hàm nhập từ keyboard class NVSanXuat
+
+5. Viết hàm nhập từ keyboard class NVCongNhat
+
+6. Viết hàm tính lương của NVSanXuat 
+
+7. Viết hàm tính lương của NVCongNhat 
